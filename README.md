@@ -11,7 +11,8 @@
 <h1 align="center">Caitlyn Yu</h1>
 
 <p align="center">
-  Senior Software Engineer • Cloud Infrastructure Specialist • DevOps-focused  
+  Senior Software Engineer • GCP-certified across engineering, DevOps, and security • Scaling infrastructure with confidence
+  
 </p>
 
 ---
@@ -22,7 +23,6 @@ I'm a graduate student at the Georgia Institute of Technology. Once upon a time,
 
 ---
 
-### Technologies & Certificatons
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
